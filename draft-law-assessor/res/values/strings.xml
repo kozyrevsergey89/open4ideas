@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">draft-law-assessor</string>
+    <string name="title_activity_main">Draft Law Assessor</string>
+    <string name="widget_label">Draft Widget</string>
+</resources>
